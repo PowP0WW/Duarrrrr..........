@@ -6,6 +6,7 @@ meme_dict = {
         "SHEESH": "sedikit ketidaksetujuan",
         "CREEPY": "menakutkan, tidak menyenangkan",
         "AGGRO": "untuk menjadi agresif/marah",
+	"smile": "senyum"
 }
 
 #word = input("Ketik kata yang tidak Kamu mengerti (gunakan huruf kapital semua!): ")           
